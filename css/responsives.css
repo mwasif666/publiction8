@@ -1,0 +1,1050 @@
+/* MEDIA QUERIES */
+
+@media only screen and (min-width: 1201px) and (max-width: 1366px) {
+}
+
+@media only screen and (min-width: 1024px) and (max-width: 1200px) {
+  .world-best {
+    justify-content: space-between;
+    gap: 2rem;
+  }
+
+  .world-best-left {
+    padding-left: 1rem;
+  }
+
+  .bottom-row {
+    margin-left: 5px;
+  }
+
+  .main-title h4 {
+    font-size: 34px;
+  }
+  .services-imges-content:hover .ser-content p {
+    height: 120px;
+  }
+  .bottom-row .navigation-list li a {
+    margin-right: 1rem;
+  }
+
+  .content h2 {
+    font-size: 58px;
+  }
+
+  .main-banner-img img {
+    width: 770px;
+    overflow: hidden;
+    margin-bottom: -49px;
+  }
+
+  .service-box-items {
+    margin-right: 0;
+  }
+
+  .content h4 {
+    font-size: 35px;
+    font-weight: 600;
+  }
+
+  .about-img-content {
+    top: 1rem;
+    padding: 1.5rem 3rem;
+  }
+
+  .about-us::after {
+    bottom: -32%;
+  }
+
+  .about-us:before {
+    bottom: -32%;
+  }
+  section.our-journal:before {
+    height: 670px;
+  }
+  .services-boxs {
+    margin-right: 0;
+  }
+
+  .services-imges-content {
+    left: 10px;
+  }
+
+  .govity-sec {
+    padding: 6rem 0rem 3rem 2rem;
+    position: relative;
+  }
+
+  .govt-items {
+    display: flex;
+    gap: 1rem;
+  }
+
+  .govity-img:before {
+    background-image: url(../images/service-1.png);
+    width: 440px;
+    height: 580px;
+  }
+
+  .govity-box {
+    z-index: 23;
+  }
+
+  section.services-sec:after {
+    width: 202px;
+    bottom: 6%;
+  }
+
+  .resourse-img {
+    display: flex;
+    gap: 10px;
+    justify-content: unset;
+  }
+
+  .resourse-img img {
+    width: 240px;
+  }
+
+  .acces .email-sec li p {
+    font-size: 12px;
+  }
+
+  .acces .email-sec li h4 {
+    font-size: 20px;
+  }
+
+  .counter-items {
+    display: unset;
+    color: #fff;
+    text-align: center;
+  }
+
+  .pailty-img .policy-tie {
+    font-size: 32px;
+    top: 16px;
+    left: 15px;
+  }
+
+  section.our-process:after {
+    width: 170px;
+    height: 185px;
+  }
+
+  .paily-content {
+    top: 16px;
+    padding: 42px 50px;
+
+    left: -24px;
+  }
+
+  .paily-content h4 {
+    font-size: 17px;
+  }
+
+  .pailty-icons i {
+    font-size: 40px;
+    width: 60px;
+    height: 60px;
+    line-height: 50px;
+  }
+
+  section.our-process:before {
+    width: 350px;
+    height: 309px;
+  }
+
+  .paily-content p {
+    text-align: center;
+    font-size: 11px;
+  }
+
+  .our-journal-box img {
+    width: 100%;
+  }
+
+  .our-journal-text {
+    padding: 1rem 2rem;
+  }
+
+  .our-journal-text h4 {
+    font-size: 20px;
+  }
+
+  .contact-img img {
+    margin-top: -40px;
+    margin-left: -50px;
+    width: 440px;
+    object-fit: cover;
+  }
+
+  .our-journal-content h5 {
+    font-size: 14px;
+  }
+
+  .our-journal-content span {
+    font-size: 15px;
+  }
+
+  .testimonail-box .testimonail-img img {
+    width: 130px;
+    height: 130px;
+  }
+
+  .testimonail-box {
+    margin: 0px 20px;
+  }
+
+  .contat-form {
+    height: 833px;
+  }
+
+  .footer-logo h3 {
+    font-size: 28px;
+  }
+  .who_img_2 {
+    height: 200px;
+
+    margin-top: -100px;
+
+    margin-left: 120px;
+  }
+  .partner-img {
+    padding: 4px 1rem;
+    margin-right: 1rem;
+    margin-top: 2rem;
+  }
+  .new-letter-content {
+    padding: 3rem 3rem;
+  }
+  .news-letter-form .submit {
+    top: 50%;
+
+    right: 30px;
+    background: transparent;
+    bottom: -50%;
+    transform: translate(0px, -65%);
+  }
+  .about-img-2 .who_img_2 {
+    margin-left: 120px;
+  }
+}
+
+@media only screen and (min-width: 768px) and (max-width: 1023px) {
+  .header-logo img {
+    width: 100%;
+  }
+  .testimonail-main-s {
+    padding: unset;
+  }
+
+  .header-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+  }
+
+  .content h2 {
+    font-size: 35px;
+  }
+
+  .primary-btn {
+    padding: 14px 30px;
+  }
+
+  .main-banner-img img {
+    width: 770px;
+    overflow: hidden;
+    margin-bottom: -49px;
+  }
+  .main-title h4 {
+    font-size: 24px;
+  }
+  .service-box-items {
+    margin-right: 0;
+
+    margin-bottom: 2rem;
+  }
+
+  .content h4 {
+    font-size: 35px;
+    font-weight: 600;
+  }
+
+  .about-img-content {
+    top: 1rem;
+    padding: 1.5rem 3rem;
+  }
+
+  .about-us::after {
+    bottom: -32%;
+  }
+
+  .about-us:before {
+    bottom: -32%;
+  }
+
+  .services-boxs {
+    margin-right: 0;
+  }
+
+  .services-imges-content {
+    left: 16px;
+  }
+
+  .govity-sec {
+    padding: 6rem 0rem 3rem 2rem;
+    position: relative;
+  }
+
+  .govt-items {
+    display: inline-block;
+    gap: unset;
+  }
+
+  .govity-img:before {
+    background-image: url(../images/service-1.png);
+    width: 410px;
+    height: 500px;
+    top: -43px;
+  }
+
+  .govity-box {
+    z-index: 23;
+  }
+
+  section.services-sec:after {
+    width: 142px;
+    bottom: 40px;
+  }
+
+  .resourse-img {
+    display: flex;
+    gap: 10px;
+    justify-content: unset;
+  }
+
+  .resourse-img img {
+    width: 100%;
+  }
+
+  .acces .email-sec li p {
+    font-size: 12px;
+
+    overflow: hidden;
+
+    display: -webkit-box;
+
+    -webkit-line-clamp: 3;
+
+    line-clamp: 2;
+
+    -webkit-box-orient: vertical;
+  }
+
+  .acces .email-sec li h4 {
+    font-size: 18px;
+  }
+
+  .counter-items {
+    display: unset;
+    color: #fff;
+    text-align: center;
+  }
+
+  .pailty-img .policy-tie {
+    font-size: 17px;
+    top: 16px;
+    left: 15px;
+  }
+
+  section.our-process:after {
+    width: 170px;
+    height: 185px;
+  }
+
+  .paily-content {
+    top: 33px;
+    padding: 22px 17px;
+    left: 9px;
+  }
+
+  .paily-content h4 {
+    font-size: 13px;
+  }
+
+  .pailty-icons i {
+    font-size: 24px;
+
+    width: 40px;
+
+    height: 40px;
+
+    line-height: 33px;
+  }
+
+  section.our-process:before {
+    width: 350px;
+    height: 309px;
+  }
+
+  .paily-content p {
+    text-align: center;
+    font-size: 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    /* number of lines to show */
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  .our-journal-box img {
+    width: 100%;
+  }
+
+  .our-journal-text {
+    padding: 1rem 2rem;
+  }
+
+  .our-journal-text h4 {
+    font-size: 23px;
+  }
+
+  .contact-img img {
+    margin-top: -40px;
+    margin-left: -50px;
+    width: 440px;
+    object-fit: cover;
+  }
+
+  .our-journal-content h5 {
+    font-size: 14px;
+  }
+
+  .our-journal-content span {
+    font-size: 15px;
+  }
+
+  .testimonail-box .testimonail-img img {
+    width: 130px;
+    height: 130px;
+  }
+
+  .testimonail-box {
+    margin: 0px 20px;
+  }
+
+  .contat-form {
+    height: 833px;
+  }
+
+  .footer-logo h3 {
+    font-size: 28px;
+  }
+
+  .service-box {
+    background-image: url(../images/ser-img.png);
+    border-radius: unset;
+    background-size: cover;
+  }
+
+  .about-content {
+    margin-left: 0;
+    margin-top: 1rem;
+  }
+
+  .services-imges-content:hover .ser-content p {
+    height: 170px;
+  }
+
+  .services-imges-content:hover .ser-icons {
+    margin-left: 100px;
+  }
+
+  .govt-items li {
+    margin-bottom: 1rem;
+    margin-left: 1rem;
+  }
+
+  .govt-list h6 {
+    font-size: 14px;
+  }
+
+  .resourse-items-content {
+    padding: 0rem 2px;
+  }
+
+  .counter-items h4 {
+    font-weight: 600;
+    font-size: 40px;
+  }
+
+  .pailty-img img {
+    width: 12rem;
+    display: block;
+    height: auto;
+  }
+
+  .pailty-icons {
+    right: -8%;
+  }
+
+  .our-journal-box {
+    margin-top: 2rem;
+  }
+
+  .ser-content h5 br {
+    display: none;
+  }
+
+  .our-resources h4 {
+    font-size: 26px;
+  }
+
+  .testimonail-titl h3 {
+    font-size: 30px;
+  }
+
+  .email-sec li a {
+    font-size: 20px;
+  }
+
+  .email-sec li p {
+    font-size: 20px;
+  }
+
+  .contact-form p {
+    font-size: 15px;
+  }
+
+  .contact-img {
+    display: none;
+  }
+
+  .contact-form {
+    margin-left: 0;
+  }
+
+  .footer-links {
+    margin-bottom: 2rem;
+  }
+  .header-logo {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0rem 1rem;
+  }
+  .mobile-menu-social {
+    margin-left: 1rem;
+  }
+  .resourse-items-content h4 {
+    font-size: 15px;
+  }
+
+  .resourse-items-content p {
+    font-size: 11px;
+  }
+  .who_img_2 {
+    width: 100%;
+    height: 140px;
+    object-fit: contain;
+    margin-top: -100px;
+    margin-left: 100px;
+  }
+  .who_we .content h4 {
+    font-size: 35px;
+    font-weight: 400;
+  }
+  .who_we .content h5 {
+    font-size: 18px;
+  }
+  .who_we .content p {
+    font-size: 14px;
+  }
+  .about-img-2 .who_img_2 {
+    margin-left: 110px;
+  }
+  .banner-img img {
+    height: 300px;
+  }
+  .partner-img {
+    padding: 10px 2rem;
+    margin-right: 1rem;
+    width: 22%;
+    margin-top: 2rem;
+  }
+  .partner-img img {
+    width: 100%;
+  }
+}
+
+@media only screen and (min-width: 200px) and (max-width: 767px) {
+  .header-logo img {
+    width: 70%;
+  }
+
+  .header-logo {
+    display: flex;
+    align-items: center;
+    gap: 5rem;
+  }
+
+  .content h2 {
+    font-size: 35px;
+  }
+
+  .primary-btn {
+    padding: 5px 20px;
+
+    font-size: 14px;
+  }
+
+  .main-banner-img img {
+    display: none;
+  }
+
+  .service-box-items {
+    margin-right: 0;
+
+    margin-bottom: 2rem;
+  }
+
+  .content h4 {
+    font-size: 21px;
+    font-weight: 600;
+  }
+
+  .about-img-content {
+    top: 1rem;
+    padding: 1rem 2rem;
+  }
+
+  .about-us::after {
+    bottom: -32%;
+  }
+
+  .about-us:before {
+    bottom: -32%;
+  }
+
+  .services-boxs {
+    margin-right: 0;
+  }
+
+  .services-imges-content {
+    left: 10px;
+  }
+
+  .govity-sec {
+    padding: 3rem 0rem 3rem 0rem;
+    position: relative;
+  }
+
+  .govt-items {
+    display: inline-block;
+  }
+
+  .govity-img:before {
+    display: none;
+  }
+
+  .govity-box {
+    z-index: 23;
+
+    text-align: end;
+  }
+
+  section.services-sec:after {
+    width: 142px;
+    bottom: 40px;
+  }
+
+  .resourse-img {
+    display: flex;
+    gap: 10px;
+    justify-content: unset;
+  }
+
+  .resourse-img img {
+    width: 100%;
+  }
+
+  .acces .email-sec li p {
+    font-size: 11px;
+  }
+
+  .acces .email-sec li h4 {
+    font-size: 17px;
+  }
+
+  .counter-items {
+    display: block;
+    color: #fff;
+    text-align: center;
+    margin-bottom: 2rem;
+  }
+
+  .pailty-img .policy-tie {
+    font-size: 17px;
+    top: 26px;
+    left: 25px;
+  }
+
+  section.our-process:after {
+    width: 170px;
+
+    height: 185px;
+
+    z-index: 0;
+  }
+
+  .paily-content {
+    top: 50px;
+    padding: 22px 26px;
+    left: 0px;
+  }
+
+  .paily-content h4 {
+    font-size: 13px;
+  }
+
+  .pailty-icons i {
+    font-size: 24px;
+
+    width: 40px;
+
+    height: 40px;
+
+    line-height: 33px;
+  }
+
+  section.our-process:before {
+    width: 350px;
+    height: 309px;
+  }
+
+  .paily-content p {
+    text-align: center;
+    font-size: 10px;
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    /* number of lines to show */
+    line-clamp: 2;
+    -webkit-box-orient: vertical;
+  }
+
+  .our-journal-box img {
+    width: 100%;
+  }
+
+  .our-journal-text {
+    padding: 1rem 2rem;
+  }
+
+  .our-journal-text h4 {
+    font-size: 16px;
+  }
+
+  .contact-img img {
+    margin-top: -40px;
+    margin-left: -50px;
+    width: 440px;
+    object-fit: cover;
+  }
+
+  .our-journal-content h5 {
+    font-size: 14px;
+  }
+
+  .our-journal-content span {
+    font-size: 15px;
+  }
+
+  .testimonail-box .testimonail-img img {
+    width: 130px;
+    height: 130px;
+  }
+
+  .testimonail-box {
+    margin: 0px 20px;
+  }
+
+  .contat-form {
+    height: unset;
+  }
+
+  .footer-logo h3 {
+    font-size: 28px;
+  }
+
+  .service-box {
+    background-image: url(../images/ser-img.png);
+    border-radius: unset;
+    background-size: cover;
+  }
+
+  .about-content {
+    margin-left: 0;
+    margin-top: 1rem;
+  }
+
+  .services-imges-content:hover .ser-content p {
+    height: 70px;
+    font-size: 13px;
+  }
+
+  .services-imges-content:hover .ser-icons {
+    margin-left: 40px;
+  }
+
+  .govt-items li {
+    width: unset;
+  }
+
+  .govt-list h6 {
+    font-size: 14px;
+  }
+
+  .resourse-items-content {
+    padding: 0rem 2px;
+  }
+
+  .counter-items h4 {
+    font-weight: 600;
+    font-size: 30px;
+  }
+
+  .pailty-img img {
+    width: 13rem;
+    display: block;
+    height: auto;
+    z-index: 1;
+  }
+
+  .pailty-icons {
+    right: -8%;
+  }
+
+  .our-journal-box {
+    margin-top: 2rem;
+  }
+
+  .ser-content h5 br {
+    display: none;
+  }
+
+  .our-resources h4 {
+    font-size: 20px;
+  }
+
+  .testimonail-titl h3 {
+    font-size: 20px;
+  }
+
+  .email-sec li a {
+    font-size: 20px;
+  }
+
+  .email-sec li p {
+    font-size: 20px;
+  }
+
+  .contact-form p {
+    font-size: 15px;
+  }
+
+  .contact-img {
+    display: none;
+  }
+
+  .contact-form {
+    margin-left: 0;
+  }
+
+  .footer-links {
+    margin-bottom: 1.5rem;
+  }
+  .header-social {
+    gap: 0.4rem;
+
+    justify-content: unset;
+  }
+  .world-best-left h4 {
+    font-size: 13px;
+  }
+  .header-social h5 {
+    font-size: 13px;
+  }
+  .banner-bg img {
+    width: 100%;
+    height: 400px;
+  }
+  .content p {
+    color: #c7c7c7;
+    font-size: 12px;
+  }
+  .service-box {
+    padding: 1rem 3rem;
+  }
+  .main-title h4 {
+    font-size: 24px;
+  }
+  .ser-content h5 {
+    font-size: 17px;
+  }
+  .govt-items li {
+    margin-right: 1rem;
+    margin-bottom: 1rem;
+  }
+  .govity-box h4 {
+    font-size: 18px;
+  }
+  .main-title {
+    padding-bottom: 1rem;
+  }
+  .acces-list {
+    position: relative;
+    padding-left: 0;
+    border-left: unset;
+  }
+  .acces .email-sec li .chat-us {
+    width: 70px;
+    height: 70px;
+    font-size: 12px;
+  }
+  .counter-items p br {
+    display: none;
+  }
+  .counter-items p {
+    font-size: 14px;
+  }
+  .policy-title h4 {
+    font-size: 25px;
+  }
+  .policy-title h3 {
+    font-size: 23px;
+  }
+  section.our-process {
+    padding: 0rem 0rem;
+  }
+  .pailty-main-box:before {
+    display: none;
+  }
+
+  .pailty-main-box {
+    padding-top: 35px;
+  }
+  .pailty-box {
+    margin-top: 17px;
+
+    z-index: 1;
+  }
+  .our-journal-text p {
+    font-size: 13px;
+
+    padding: 10px 0;
+  }
+  .our-journal-slier-items {
+    overflow: hidden;
+    margin: 0 40px;
+  }
+  .contact-form-main {
+    height: unset;
+  }
+  .email-sec {
+    justify-content: space-around;
+    margin-bottom: 2rem;
+  }
+  .contact-form h4 {
+    font-size: 24px;
+  }
+  .contact-bg {
+    padding: 0 30px;
+  }
+  .contact-form-main {
+    border-radius: 133px 133px 0 0;
+  }
+  .footer {
+    padding: 1rem;
+  }
+  .footers-logo {
+    margin-bottom: 1.5rem;
+  }
+
+  .footer-logo {
+    margin-bottom: 1rem;
+  }
+  .footer-links p {
+    font-size: 14px;
+  }
+  .email-sec li a span {
+    font-size: 18px;
+  }
+  .copy-right-content p {
+    text-align: center;
+  }
+  .privacy ul {
+    justify-content: space-between;
+  }
+  .our-resoure-img {
+    margin-top: 2rem;
+  }
+  .govt-list {
+    padding: 10px 20px;
+
+    width: 110px;
+  }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 375px) {
+  .govt-list {
+    padding: 10px 10px;
+  }
+  .ser-content h5 {
+    font-size: 14px;
+  }
+  .content h4 {
+    font-size: 18px;
+    font-weight: 600;
+  }
+  .service-box {
+    padding: 1rem 3rem;
+    background: var(--c1);
+  }
+  .main-title h4 {
+    font-size: 20px;
+  }
+  .service-box-items {
+    margin-bottom: 1rem;
+  }
+  .pailty-img img {
+    width: 11.5rem;
+    display: block;
+    height: auto;
+    z-index: 1;
+  }
+  .our-journal-text p {
+    font-size: 10px;
+    padding: 10px 0;
+  }
+  .our-journal-text h4 {
+    font-size: 15px;
+  }
+  .testimonail-titl h3 {
+    font-size: 18px;
+  }
+  .contact-form h4 {
+    font-size: 22px;
+  }
+  .service-content {
+    font-size: 12px;
+  }
+  .paily-content {
+    top: 38px;
+    padding: 22px 26px;
+    left: 0px;
+  }
+}
+
+@media only screen and (min-width: 100px) and (max-width: 300px) {
+}
